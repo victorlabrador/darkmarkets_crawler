@@ -11,11 +11,11 @@
     asd
     <br /> <br/>
     <br />
-    <a href="https://github.com/vicviclablab/darkmarkets_crawler/src">Code</a>
+    <a href="https://github.com/vicviclablab/darkmarkets_crawler/tree/main/src">Code</a>
     ·
-    <a href="https://github.com/vicviclablab/darkmarkets_crawler/src/markets">Markets code</a>
+    <a href="https://github.com/vicviclablab/darkmarkets_crawler/tree/main/src/markets">Markets code</a>
     ·
-    <a href="https://github.com/vicviclablab/darkmarkets_crawler/src/analysis">Analysis code</a>
+    <a href="https://github.com/vicviclablab/darkmarkets_crawler/tree/main/src/analysis">Analysis code</a>
   </p>
 </div>
 
