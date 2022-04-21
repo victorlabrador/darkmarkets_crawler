@@ -62,7 +62,7 @@ In order to use this tool, it is necessary to have installed the Tor browser, Py
 
 ### Installation
 1. Clone the repo
-   ```sh
+  ```sh
    git clone https://github.com/vicviclablab/darkmarkets_crawler
    ```
 2. Install dependencies and libraries
@@ -74,9 +74,9 @@ In order to use this tool, it is necessary to have installed the Tor browser, Py
   ```sh
    python3 crawler.py market_name port file.txt
    ```
-   Where the market_name is the market to crawl
-   The port is the port that the crawl will use to connect through Tor to the market
-   The file.txt is the file where the URLs will be stored for later analysis.
+- Where the market_name is the market to crawl
+- The port is the port that the crawl will use to connect through Tor to the market
+- The file.txt is the file where the URLs will be stored for later analysis.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -103,7 +103,7 @@ In order to use this tool, it is necessary to have installed the Tor browser, Py
 <!-- CONTACT -->
 ## Contact
 
-Víctor Labrador - victorlabrador10@gmail.com
+Víctor Labrador - 100440595@alumnos.uc3m.es
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
