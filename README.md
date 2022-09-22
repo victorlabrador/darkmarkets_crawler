@@ -8,7 +8,6 @@
 
   <p align="center">
     Crawler to obtain data from the Dark Web marketplaces in order to get some databases for further analysis. 
-    asd
     <br /> <br/>
     <br />
     <a href="https://github.com/vicviclablab/darkmarkets_crawler/tree/main/src">Code</a>
